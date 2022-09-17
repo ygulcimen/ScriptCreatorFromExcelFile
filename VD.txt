@@ -1,0 +1,9 @@
+﻿Update table set  NET_PAYABLE_AMNT = 7.16  where insis_event_id = 20220750350439 ;
+Update table set  INCOME_TAX_AMNT = 4031.358 ,  INCOME_TAX_BASE = 26875.72 ,  INCOME_TAX_RATIO = 15  where insis_event_id = 20220742625340 ;
+Update table set  PENALTY_REASON = 'Temerrüt Faizi'  where insis_event_id = 20220854611995 ;
+Update table set  NET_PAYABLE_AMNT = 3.86  where insis_event_id = 20220750348272 ;
+Update table set  PENSION_CAPITAL_AMOUNT = 135.83 ,  TOT_TRNSF_NET_AMNT = 135.83  where insis_event_id = 20220746748822 ;
+Update table set  NET_PAYABLE_AMNT = 0.56  where insis_event_id = 20220769092883 ;
+Update table set  INCOME_TAX_AMNT = 4031.358 ,  INCOME_TAX_BASE = 26875.72 ,  INCOME_TAX_RATIO = 15  where insis_event_id = 20220769144853 ;
+Update table set  PENALTY_REASON = 'Temerrüt Faizi'  where insis_event_id = 20220769196823 ;
+Update table set  NET_PAYABLE_AMNT = -2.74  where insis_event_id = 20220769248792 ;
